@@ -185,6 +185,11 @@ to{border-right-color: transparent;}
   opacity: 1;
   }
 }
+@media (max-width: 401px) {
+  .post-title {
+    font-size: 80;
+  }
+}
 
 .intro-para {
   margin: 45px 0;
